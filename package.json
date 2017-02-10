@@ -1,5 +1,5 @@
 {
-  "name": "patternlab-react-component",
+  "name": "@peteyg/patternlab-react-component",
   "version": "1.0.0",
   "description": "Component for using with patternlab-react",
   "main": "build/index.js",
