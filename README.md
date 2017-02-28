@@ -3,9 +3,7 @@
 # patternlab-react-component
 > React.Component extension for use with [patternlab-react](https://github.com/peteyg99/patternlab-react)
 
-## Usage
-
-### Install
+## Install
 
 ```
 npm install patternlab-react
