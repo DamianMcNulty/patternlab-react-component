@@ -13,8 +13,6 @@ npm install patternlab-react
 
 ### Basic
 
-Extend your react component to add a description etc.
-
 ```
 import React from 'react';
 import { PatternLabComponent } from '@peteyg/patternlab-react-component';
@@ -84,7 +82,7 @@ export default MyComponent
 
 #### describePropTypes
 
-Currently some fileTypes are not discoverable so need to be 
+Currently some propTypes are not discoverable so need to be 
 described. Hopefully deprecate this in the future.
 
 #### fakeProps
